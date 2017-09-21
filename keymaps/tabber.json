@@ -1,0 +1,6 @@
+{
+  "atom-text-editor": {
+    "ctrl-alt-2": "tabber:tab2",
+    "ctrl-alt-4": "tabber:tab4"
+  }
+}

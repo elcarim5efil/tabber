@@ -1,0 +1,19 @@
+{
+  "name": "tabber",
+  "main": "./lib/tabber",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-text-editor": [
+      "tabber:tab4",
+      "tabber:tab2"
+    ]
+  },
+  "repository": "https://github.com/atom/tabber",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
