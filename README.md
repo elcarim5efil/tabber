@@ -1,6 +1,6 @@
 # tabber package
 
-Auto detect tab length on the openning file, and update the editor's tab length property.
+atom plugin. Auto detect tab length on the openning file, and update the editor's tab length property.
 
 Or you can use the shortcut to set up the tab length
 
